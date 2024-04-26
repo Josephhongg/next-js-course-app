@@ -1,0 +1,40 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 -10px;
+}
+
+.card {
+  flex-basis: calc(20% - 20px);
+  margin: 10px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.cardTitle {
+  padding: 16px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.cardButton {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.cardButton:hover,
+.cardButton:focus {
+  background-color: #1e81b0;
+  color: #fff;
+  outline: none;
+}
