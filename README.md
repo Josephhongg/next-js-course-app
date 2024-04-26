@@ -1,11 +1,10 @@
-# s1-23-id608001-project-1-next-js-course-app-Josephhongg
-s1-23-id608001-project-1-next-js-course-app-Josephhongg created by GitHub Classroom
+# next-js-course-app
 
 <p>ChatGPT was used to assist in the styling of this project
 <br>ChatGPT was used to format the time to a readable format</pr>
 
 ### Setup the development environment
-- After the repo is cloned, change directory to <code>s1-23-id608001-project-1-next-js-course-app-Josephhongg/hacker-news-app</code>, after changing directories <code>code .</code> to open in VS Code
+- After the repo is cloned, change directory to <code>next-js-course-app</code>, after changing directories <code>code .</code> to open in VS Code
 - Run command <code>npm install</code> to install all the required dependices. Run <code>npm run dev</code> to start a local server
 
 ### Vercel Application
